@@ -16,6 +16,12 @@
         <mxCell id="j38Kp4Xohw9auP_GMp4D-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="487" y="286" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="j38Kp4Xohw9auP_GMp4D-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387" y="359" as="sourcePoint" />
+            <mxPoint x="437" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
